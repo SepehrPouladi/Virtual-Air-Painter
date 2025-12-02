@@ -1,6 +1,7 @@
 # Virtual-Painting✋
 
 ![Mona Lisa drawn in the air](monalisa_air_draw.jpg)
+
 *Yes, someone actually drew this masterpiece... in the air... with one finger*
 
 A real-time air drawing application using only your webcam and hand gestures.  
@@ -68,7 +69,7 @@ Listed in `requirements.txt`:
 
 ## Look, Ma — No Hands on Screen!
 
-![Me drawing Mona Lisa with hand tracking](me_drawing.jpg)
+![Me drawing Mona Lisa with hand tracking](vitrual_painting.png)
 
 *100% real. 0% mouse. 1 finger. Infinite artistic confidence.*
 
